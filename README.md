@@ -6,7 +6,7 @@ Always building, always learning.
 ---
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alixxxx-x?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+(![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alixxxx-x&theme=nightowl&show_icons=true&hide_border=true&count_private=true))
 
 ---
 ⭐ Thanks for visiting my profile!
