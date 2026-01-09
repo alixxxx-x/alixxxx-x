@@ -5,6 +5,8 @@ Full-stack developer & game dev in progress 🚀
 Always building, always learning.
 ---
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=alixxxx-x&theme=default&show_icons=true&hide_border=true&count_private=true
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alixxxx-x?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ---
 ⭐ Thanks for visiting my profile!
